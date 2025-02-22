@@ -21,9 +21,10 @@ Select the encrypted image.
 Enter the correct passcode.
 The tool retrieves and displays the hidden message.
 
-Screenshot
+
 
 Technologies Used
+
 Python
 Tkinter (for GUI)
 OpenCV (cv2) (for image processing)
